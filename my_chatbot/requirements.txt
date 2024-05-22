@@ -1,0 +1,8 @@
+Flask
+nltk
+matplotlib
+selenium
+webdriver-manager
+pandas
+scikit-learn
+
